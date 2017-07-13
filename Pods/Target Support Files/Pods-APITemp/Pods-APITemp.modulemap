@@ -1,0 +1,6 @@
+framework module Pods_APITemp {
+  umbrella header "Pods-APITemp-umbrella.h"
+
+  export *
+  module * { export * }
+}
